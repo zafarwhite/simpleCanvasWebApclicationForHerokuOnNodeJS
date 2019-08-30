@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-size: 0px;
+}
+#screen {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    width: 100vh;
+    height: 100vh;
+}
